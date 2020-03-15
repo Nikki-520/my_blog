@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <h1></h1>
     <div class="articles">
       <!-- <TheHero :hero-article="articlesList[0]" /> -->
       <BlogList :blogs="blogs" />
