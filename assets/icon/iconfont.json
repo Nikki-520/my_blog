@@ -1,0 +1,30 @@
+{
+  "id": "1686957",
+  "name": "my_blog",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1387",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3506850",
+      "name": "wechat",
+      "font_class": "wechat",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12443502",
+      "name": "qq",
+      "font_class": "sign_qq",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    }
+  ]
+}
